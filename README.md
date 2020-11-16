@@ -1,0 +1,2 @@
+# Basic-View-Pager-Java
+SAMPLE CODE FOR BASIC VIEW PAGER IN JAVA
